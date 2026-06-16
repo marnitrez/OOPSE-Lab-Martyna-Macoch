@@ -1,0 +1,8 @@
+C:/Users/LabPOIO-102/Documents/QtConsoleApp/build/Desktop_Qt_6_11_0_MSVC2022_64bit-Debug/CMakeFiles/QtConsoleApp.dir
+C:/Users/LabPOIO-102/Documents/QtConsoleApp/build/Desktop_Qt_6_11_0_MSVC2022_64bit-Debug/CMakeFiles/edit_cache.dir
+C:/Users/LabPOIO-102/Documents/QtConsoleApp/build/Desktop_Qt_6_11_0_MSVC2022_64bit-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/LabPOIO-102/Documents/QtConsoleApp/build/Desktop_Qt_6_11_0_MSVC2022_64bit-Debug/CMakeFiles/list_install_components.dir
+C:/Users/LabPOIO-102/Documents/QtConsoleApp/build/Desktop_Qt_6_11_0_MSVC2022_64bit-Debug/CMakeFiles/install.dir
+C:/Users/LabPOIO-102/Documents/QtConsoleApp/build/Desktop_Qt_6_11_0_MSVC2022_64bit-Debug/CMakeFiles/install/local.dir
+C:/Users/LabPOIO-102/Documents/QtConsoleApp/build/Desktop_Qt_6_11_0_MSVC2022_64bit-Debug/CMakeFiles/QtConsoleApp_autogen_timestamp_deps.dir
+C:/Users/LabPOIO-102/Documents/QtConsoleApp/build/Desktop_Qt_6_11_0_MSVC2022_64bit-Debug/CMakeFiles/QtConsoleApp_autogen.dir
