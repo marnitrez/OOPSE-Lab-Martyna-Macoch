@@ -1,0 +1,120 @@
+I-Logix-RPY-Archive version 8.15.0 * 202411191641
+
+- m_fileModifyTime = { IRPYRawContainer 
+	- size = 20;
+	- value = "DefaultComponent/DefaultConfig/Controller.cpp" 6.16.2026::10:44:52
+	"DefaultComponent/DefaultConfig/Controller.h" 6.16.2026::10:44:52
+	"DefaultComponent/DefaultConfig/Default.cpp" 6.16.2026::10:37:51
+	"DefaultComponent/DefaultConfig/Default.h" 6.16.2026::10:47:29
+	"DefaultComponent/DefaultConfig/Detector.cpp" 6.16.2026::10:44:52
+	"DefaultComponent/DefaultConfig/Detector.h" 6.16.2026::10:44:52
+	"DefaultComponent/DefaultConfig/Display.cpp" 6.16.2026::10:29:37
+	"DefaultComponent/DefaultConfig/Display.h" 6.16.2026::10:29:37
+	"DefaultComponent/DefaultConfig/Drive.cpp" 6.16.2026::10:29:37
+	"DefaultComponent/DefaultConfig/Drive.h" 6.16.2026::10:29:37
+	"DefaultComponent/DefaultConfig/Keyboard.cpp" 6.16.2026::10:29:37
+	"DefaultComponent/DefaultConfig/Keyboard.h" 6.16.2026::10:29:37
+	"DefaultComponent/DefaultConfig/Lamp.cpp" 6.16.2026::10:44:52
+	"DefaultComponent/DefaultConfig/Lamp.h" 6.16.2026::10:44:52
+	"DefaultComponent/DefaultConfig/Module.cpp" 6.16.2026::10:37:51
+	"DefaultComponent/DefaultConfig/Module.h" 6.16.2026::10:37:51
+	"DefaultComponent/DefaultConfig/Receiver.cpp" 6.16.2026::10:29:37
+	"DefaultComponent/DefaultConfig/Receiver.h" 6.16.2026::10:29:37
+	"DefaultComponent/DefaultConfig/class_62.cpp" 6.16.2026::10:29:37
+	"DefaultComponent/DefaultConfig/class_62.h" 6.16.2026::10:29:37
+	
+}
+- m_saveUnitAndOwnerSaveUnit = { IRPYRawContainer 
+	- size = 2;
+	- value = "GUID 1564a0e7-b2ce-4054-b1f0-42df299445a1" "GUID a373d4d7-f2dd-4435-ae9c-b820dbeb3174"
+	"GUID 909ec747-90bd-4e41-9921-263d338bfbc6" "GUID a373d4d7-f2dd-4435-ae9c-b820dbeb3174"
+	
+}
+- size = 11;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = ".\\..\\..\\Gate_rpy\\Default.sbsx";
+	- _subsystem = "Default";
+	- _name = "Controller";
+	- _id = GUID 8e109a10-3df0-4657-b589-088bd7981762;
+}
+- genTime = 6.16.2026::10:44:52;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = ".\\..\\..\\Gate_rpy\\Default.sbsx";
+	- _subsystem = "Default";
+	- _name = "Lamp";
+	- _id = GUID cf2e8d98-16e4-4b56-8651-4b424bfd9698;
+}
+- genTime = 6.16.2026::10:44:52;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = ".\\..\\..\\Gate_rpy\\Default.sbsx";
+	- _subsystem = "Default";
+	- _name = "Module";
+	- _id = GUID 5d1a28f1-7177-4222-a5cc-17341a077675;
+}
+- genTime = 6.16.2026::10:37:52;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = ".\\..\\..\\Gate_rpy\\Default.sbsx";
+	- _subsystem = "Default";
+	- _name = "Receiver";
+	- _id = GUID 9c21808c-fc17-4648-a555-defca7a3bd68;
+}
+- genTime = 6.16.2026::10:37:52;
+- hElement = { IHandle 
+	- _m2Class = "ICodeGenConfigInfo";
+	- _filename = ".\\..\\..\\Gate_rpy\\DefaultComponent.cmpx";
+	- _name = "DefaultComponent\\DefaultConfig";
+	- _id = GUID 6d6f00cb-035f-479e-bb52-20b6ac391bde;
+}
+- genTime = 6.16.2026::10:47:30;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = ".\\..\\..\\Gate_rpy\\Default.sbsx";
+	- _subsystem = "Default";
+	- _name = "class_62";
+	- _id = GUID a8edaf4d-7424-494b-aac7-879de39931f2;
+}
+- genTime = 6.16.2026::10:29:37;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = ".\\..\\..\\Gate_rpy\\Default.sbsx";
+	- _subsystem = "Default";
+	- _name = "Detector";
+	- _id = GUID d42a18a3-6120-4e60-8b9e-33de8559bbac;
+}
+- genTime = 6.16.2026::10:44:52;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = ".\\..\\..\\Gate_rpy\\Default.sbsx";
+	- _subsystem = "Default";
+	- _name = "Display";
+	- _id = GUID 44ed8ee7-f41e-4a24-b3b3-e82908f7c813;
+}
+- genTime = 6.16.2026::10:37:52;
+- hElement = { IHandle 
+	- _m2Class = "ISubsystem";
+	- _filename = ".\\..\\..\\Gate_rpy\\Default.sbsx";
+	- _name = "Default";
+	- _id = GUID 1564a0e7-b2ce-4054-b1f0-42df299445a1;
+}
+- genTime = 6.16.2026::10:47:30;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = ".\\..\\..\\Gate_rpy\\Default.sbsx";
+	- _subsystem = "Default";
+	- _name = "Keyboard";
+	- _id = GUID a7e4df1c-738e-4332-8332-512b9eddee57;
+}
+- genTime = 6.16.2026::10:29:37;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = ".\\..\\..\\Gate_rpy\\Default.sbsx";
+	- _subsystem = "Default";
+	- _name = "Drive";
+	- _id = GUID 54a59fc9-4608-40db-87f9-bee68fd16ea7;
+}
+- genTime = 6.16.2026::10:47:30;
+
